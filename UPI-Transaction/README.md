@@ -53,7 +53,7 @@ Interactive dashboard showing:
 - December 2021 market share pie chart
 - Filters for app, month, and year
 
-🔗 [👉 View Tableau Dashboard](https://public.tableau.com/views/UPI-TransactionIndia2021/IndiasUPIGrowthDashboard2021Analysis?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+🔗 [👉 View Tableau Dashboard](https://public.tableau.com/views/IndiasUPIGrowthDashboard/IndiasUPIGrowthDashboard2021Analysis?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 

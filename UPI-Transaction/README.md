@@ -24,7 +24,7 @@ An end-to-end data analysis project exploring Unified Payments Interface (UPI) a
 
 ## 📁 Dataset
 
-- 📄 File: `UPI apps transaction data in 2021.csv`
+- 📄 File: `upi_2021_cleaned.csv`
 - 📦 Source: Open data (NPCI) or [Kaggle](https://www.kaggle.com/)
 - 📊 Columns:
   - `upi_banks` – App names (PhonePe, Paytm, etc.)
